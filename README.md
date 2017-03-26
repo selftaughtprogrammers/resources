@@ -1,6 +1,6 @@
 # Self Taught Programmer Resources
 
-Hello there! This is the repository for the Self Taught Programmer's Facebook group. Below you'll see a list of resources about programming and other topics.
+Hello there! This is the repository for the Self Taught Programmer's Facebook group. Below you'll see a list of resources about programming and other topics. If you would like to contribute, please read the instructions on [contributing](https://github.com/selftaughtprogrammers/resources/blob/master/CONTRIBUTING.md).
 
 ## Resources
 
@@ -27,4 +27,3 @@ Here are some resources that can be utilized on your journey to becoming a self 
 
  - [Learn Git](try.github.io) - Learn Git in your browser, only takes *about* 15 minutes!
  - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#syntax) - A must for properly documenting on GitHub
- -
