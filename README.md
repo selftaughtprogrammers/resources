@@ -25,5 +25,5 @@ Here are some resources that can be utilized on your journey to becoming a self 
 
 ### Git & GitHub
 
- - [Learn Git](try.github.io) - Learn Git in your browser, only takes *about* 15 minutes!
+ - [Learn Git](https://try.github.io) - Learn Git in your browser, only takes *about* 15 minutes!
  - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#syntax) - A must for properly documenting on GitHub
