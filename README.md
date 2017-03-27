@@ -23,6 +23,13 @@ Here are some resources that can be utilized on your journey to becoming a self 
 - [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/) - A great one by Zed Shaw
 - [Document the Ruby Language](http://ruby-doc.org/) - Ruby documentation
 
+### JavaScript
+
+- [Free Code Camp](https://www.freecodecamp.com/) - Lessons start with HTML/CSS and progress through advanced JavaScript, Node, React, D3
+- [Learn How To Program: Intro](https://www.learnhowtoprogram.com/intro-to-programming) - Lessons from HTML/CSS through front-end JavaScript and jQuery (more in-depth explanations than free code camp)
+- [JavaScript 30](https://javascript30.com/) - Video tutorials for intermediate/advanced JavaScript
+- [Learn How To Program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Backend JavaScript with Node, Angular, and Ember
+
 ### Git & GitHub
 
  - [Learn Git](https://try.github.io) - Learn Git in your browser, only takes *about* 15 minutes!
