@@ -6,6 +6,11 @@ Hello there! This is the repository for the Self Taught Programmer's Facebook gr
 
 Here are some resources that can be utilized on your journey to becoming a self taught developer!
 
+### Javascript
+
+- [Practical Javascript](https://watchandcode.com/p/practical-javascript) Free Javascript course by Cordon Zhu
+- [Javascript30](https://javascript30.com/) Build 30 things in 30 days with 30 tutorials with vanilla JS by Wes Bos
+
 ### Python
 
 - [The Self-Taught Programmer](http://theselftaughtprogrammer.io/) by Cory Althoff
