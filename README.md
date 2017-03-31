@@ -23,6 +23,9 @@ Here are some resources that can be utilized on your journey to becoming a self 
 - [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/) - A great one by Zed Shaw
 - [Document the Ruby Language](http://ruby-doc.org/) - Ruby documentation
 
+### Ruby on Rails
+- [Ruby on Rails Tutorial](https://www.railstutorial.org/book) - A great tutorial/book on the Rails web framework. Updated for Rails 5.
+
 ### Git & GitHub
 
  - [Learn Git](https://try.github.io) - Learn Git in your browser, only takes *about* 15 minutes!
