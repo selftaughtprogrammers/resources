@@ -32,6 +32,7 @@ Here are some resources that can be utilized on your journey to becoming a self 
 - [Learn How To Program: Intro](https://www.learnhowtoprogram.com/intro-to-programming) - Lessons from HTML/CSS through front-end JavaScript and jQuery (more in-depth explanations than free code camp)
 - [JavaScript 30](https://javascript30.com/) - Video tutorials for intermediate/advanced JavaScript
 - [Learn How To Program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Backend JavaScript with Node, Angular, and Ember
+- [Practical Javascript](https://watchandcode.com/p/practical-javascript) - Free JS course by Gordon Zhu
 
 ### Git & GitHub
 
