@@ -23,6 +23,9 @@ Here are some resources that can be utilized on your journey to becoming a self 
 - [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/) - A great one by Zed Shaw
 - [Document the Ruby Language](http://ruby-doc.org/) - Ruby documentation
 
+### Ruby on Rails
+- [Rails Tutorial](https://www.railstutorial.org/book) Free online version of Michael Hartl's book/tutorial.
+
 ### JavaScript
 
 - [Free Code Camp](https://www.freecodecamp.com/) - Lessons start with HTML/CSS and progress through advanced JavaScript, Node, React, D3
