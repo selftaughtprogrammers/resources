@@ -39,3 +39,9 @@ Here are some resources that can be utilized on your journey to becoming a self 
  - [Learn Git](https://try.github.io) - Learn Git in your browser, only takes *about* 15 minutes!
  - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#syntax) - A must for properly documenting on GitHub
  - [Pro Git](https://github.com/progit/progit2) - Great book for learning Git - from the basics of configuring, to the most advanced commands! 
+
+### C#
+
+- [Learn C#](http://www.learncs.org/) - Learn the basics of C# with an interactive editor
+- [C# For Beginners](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169) - Free c# video training for beginners
+- [C# Tutorial](https://www.tutorialspoint.com/csharp/) - Beginner and advanced tutorials for C#
