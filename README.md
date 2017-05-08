@@ -14,6 +14,7 @@ Here are some resources that can be utilized on your journey to becoming a self 
 - [Learn Python](https://www.learnpython.org/)
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 - [Python Documentation](https://www.python.org/doc/) - Official Python Documentation
+- [Python Crash Course](https://1bookcase.com/python-crash-course/)
 
 ### Ruby
 
