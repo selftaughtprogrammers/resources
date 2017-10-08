@@ -49,3 +49,10 @@ Here are some resources that can be utilized on your journey to becoming a self 
 - [Learn C#](http://www.learncs.org/) - Learn the basics of C# with an interactive editor
 - [C# For Beginners](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169) - Free c# video training for beginners
 - [C# Tutorial](https://www.tutorialspoint.com/csharp/) - Beginner and advanced tutorials for C#
+
+## Tools
+
+
+### Online JavaScript Code Editor
+- [JsFiddle](https://jsfiddle.net/) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
+- [CodePen](https://codepen.io/) - CodePen is a social development environment for front-end designers and developers.
