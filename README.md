@@ -49,3 +49,4 @@ Here are some resources that can be utilized on your journey to becoming a self 
 - [Learn C#](http://www.learncs.org/) - Learn the basics of C# with an interactive editor
 - [C# For Beginners](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169) - Free c# video training for beginners
 - [C# Tutorial](https://www.tutorialspoint.com/csharp/) - Beginner and advanced tutorials for C#
+- [Story-based C# Tutorial](https://codeasy.net) - Beginner and medium story-based C# tutorial where you need to code to save the world
