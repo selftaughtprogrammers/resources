@@ -6,13 +6,19 @@ Hello there! This is the repository for the Self Taught Programmer's Facebook gr
 
 Here are some resources that can be utilized on your journey to becoming a self taught developer!
 
+### Beginner
+- [The Self-Taught Programmer](https://theselftaughtprogrammer.io/) by Cory Althoff
+- [The Self-Taught Course](https://goselftaught.com) by Cory Althoff
+
+
 ### General
 - [The Open Web Application Security Project](https://www.owasp.org/index.php/Category:Attack) - Security
 
 
 ### Python
 
-- [The Self-Taught Programmer](http://theselftaughtprogrammer.io/) by Cory Althoff
+- [The Self-Taught Programmer](https://theselftaughtprogrammer.io/) by Cory Althoff
+- [The Self-Taught Course](https://goselftaught.com) by Cory Althoff
 - [Awesome Python](https://awesome-python.com) - Awesome list of everything Python
 - [Full Stack Python](https://www.fullstackpython.com/) - Excellent resource that explains concepts in plain language
 - [Learn Python](https://www.learnpython.org/)
