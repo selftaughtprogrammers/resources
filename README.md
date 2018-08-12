@@ -43,6 +43,7 @@ Here are some resources that can be utilized on your journey to becoming a self 
 - [JavaScript 30](https://javascript30.com/) - Video tutorials for intermediate/advanced JavaScript
 - [Learn How To Program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Backend JavaScript with Node, Angular, and Ember
 - [Practical Javascript](https://watchandcode.com/p/practical-javascript) - Free JS course by Gordon Zhu
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Js Book Series by Kyle Simpson
 
 ### Git & GitHub
 
